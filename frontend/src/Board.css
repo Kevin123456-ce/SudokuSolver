@@ -1,0 +1,22 @@
+.Board {
+    width: 50%;
+    margin-left: 35%;
+    margin-right: auto;
+}
+button{
+    margin-left: 5%;
+    margin-top: 15%;
+    margin-bottom: 5%;
+    height:30px;
+    width:40px;
+}
+input{
+    width:25%;
+}
+h1{
+    text-align: center;
+    color: aqua;
+}
+td{
+    align-items: center;
+}
